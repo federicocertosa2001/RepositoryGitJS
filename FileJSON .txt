@@ -1,0 +1,5 @@
+{
+  "nodo_iniziale":15,
+  "nodi_cliente":5,
+  "lista_nodi": [5,7,15,8,6]
+}
